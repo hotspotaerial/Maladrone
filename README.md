@@ -30,9 +30,7 @@ DJI Mobile SDK
 YOLO v5 object detection framework
 TensorFlow Lite for model optimization
 
-    <br><br>
-    To request a commercial license please complete the form at <a href="https://ultralytics.com/license">Ultralytics Licensing</a>.
-    <br><br>
+   
  
 </div>
 

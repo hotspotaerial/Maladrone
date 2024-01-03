@@ -24,12 +24,12 @@ Data-driven insights for control strategies and resource allocation.
 Showcase a visual:
 Include a GIF or image demonstrating Maladrone in action.
 ## Technologies Used
-
-List key technologies and frameworks:
+<li>
+Technologies and frameworks:
 DJI Mobile SDK
 YOLO v5 object detection framework
 TensorFlow Lite for model optimization
-
+</li>
    
  
 </div>

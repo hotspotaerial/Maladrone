@@ -26,7 +26,10 @@ Maladrone is a cutting-edge solution that leverages drone-mounted cameras and ad
 - **Data-Driven Insights:** Maladrone generates data-driven insights for control strategies and efficient resource allocation.
 
 ### Visual Showcase
-Here is a demonstration of Maladrone in action. [Video Showcase Placeholder]
+Here is a demonstration of Maladrone in action.
+1. ![Image of Breeding sites](https://github.com/Samsonroyal/Maladrone/assets/26835888/a7c83209-ad68-47db-8dc6-30e3ac2cbfd0)
+
+2. ![Video showing Maladrone in action]([https://res.cloudinary.com/imagea/video/upload/v1704382803/DJI_0782_Trim_y2xzjf.mp4](https://asset.cloudinary.com/imagea/b6f4f5760c7bde4ecfa2fd5e214bc2d8))
 
 ## Technologies Used
 
